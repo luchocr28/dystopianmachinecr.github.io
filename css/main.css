@@ -231,6 +231,8 @@ html {
      top: 0;
      width: 100%;
      z-index: 1040;
+     opacity: 0;
+     display: none;
 }
  .header .left-part {
      float: left;
@@ -812,7 +814,7 @@ html {
      }
  
      .header {
-          background-color: #ffffff !important;
+          background-color: #182128 !important;
           
      }
      .header .logo {
@@ -822,7 +824,7 @@ html {
      
      
       .header .logo h2 {
-          color: #222222 !important;
+          color: #ffffff !important;
      }
 
 
